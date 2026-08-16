@@ -5,7 +5,7 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.8.0/firebase
 
 // FIREBASE PROJE BİLGİLERİNİZİ BURAYA GİRİN:
 const firebaseConfig = {
-  apiKey: "FIREBASE_API_KEY_BURAYA",
+  apiKey: "AIzaSyCrwTni6b2DnaeogEcjD7JyIEXHNCOT2Lo",
   authDomain: "bydesign-portfolyo.firebaseapp.com",
   projectId: "bydesign-portfolyo",
   storageBucket: "bydesign-portfolyo.appspot.com",
